@@ -2884,15 +2884,6 @@
           "x": 367.02,
           "y": 108.00,
           "z": 0.00
-        },
-        {
-          "config": "{\"name\":\"fed901f663d15acb1764\",\"layouts\":[{\"id\":0,\"position\":{\"x\":806.8571428571429,\"y\":142.85714285714286,\"z\":1000,\"width\":300.57142857142856,\"height\":299.42857142857144,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"slicer\",\"projections\":{\"Values\":[{\"queryRef\":\"DimInvestmentReason.InvestmentReasonGrpTextLong\",\"active\":true}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"d\",\"Entity\":\"DimInvestmentReason\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"InvestmentReasonGrpTextLong\"},\"Name\":\"DimInvestmentReason.InvestmentReasonGrpTextLong\",\"NativeReferenceName\":\"InvestmentReasonGrpTextLong\"}]},\"drillFilterOtherVisuals\":true,\"objects\":{\"data\":[{\"properties\":{\"mode\":{\"expr\":{\"Literal\":{\"Value\":\"'Basic'\"}}}}}],\"general\":[{\"properties\":{\"filter\":{\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"d\",\"Entity\":\"DimInvestmentReason\",\"Type\":0}],\"Where\":[{\"Condition\":{\"In\":{\"Expressions\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"InvestmentReasonGrpTextLong\"}}],\"Values\":[[{\"Literal\":{\"Value\":\"'Boost'\"}}]]}}}]}}}}]}}}",
-          "filters": "[]",
-          "height": 299.43,
-          "width": 300.57,
-          "x": 806.86,
-          "y": 142.86,
-          "z": 1000.00
         }
       ],
       "width": 1280.00
